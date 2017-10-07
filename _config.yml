@@ -9,8 +9,9 @@ google_analytics: 'UA-107290648-1'
 author:
   name: 'Manpi'
   email: info@manpi.uk
-  facebook_username: manpi
-  linkedin_username:  manpi
+  facebook_username: manpi.fashion
+  linkedin_username: 11299156
+  #linkedin_username:  manpi
 
 defaults:
   -
